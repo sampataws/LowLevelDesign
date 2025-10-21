@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/agent-ranking-lld/pom.xml" />
+        <option value="$PROJECT_DIR$/org-hierarchy-lld/pom.xml" />
+        <option value="$PROJECT_DIR$/tennis-court-lld/pom.xml" />
+        <option value="$PROJECT_DIR$/commodity-prices-lld/pom.xml" />
+        <option value="$PROJECT_DIR$/popular-content-lld/pom.xml" />
+        <option value="$PROJECT_DIR$/customer-satisfaction-lld/pom.xml" />
+        <option value="$PROJECT_DIR$/middleware-router-lld/pom.xml" />
+        <option value="$PROJECT_DIR$/snake-game-lld/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="azul-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ThriftCompiler">
+    <compilers />
+  </component>
+</project>
