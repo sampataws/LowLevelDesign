@@ -5,10 +5,18 @@
     <file url="file://$PROJECT_DIR$/agent-ranking-lld/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/commodity-prices-lld/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/commodity-prices-lld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cost-explorer-lld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cost-explorer-lld/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/customer-satisfaction-lld/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/customer-satisfaction-lld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file-system-lld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file-system-lld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lca-orghierarchy-lld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lca-orghierarchy-lld/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/logging-lld/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/logging-lld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lru-cache-lld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lru-cache-lld/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/middleware-router-lld/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/middleware-router-lld/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/org-hierarchy-lld/src/main/java" charset="UTF-8" />

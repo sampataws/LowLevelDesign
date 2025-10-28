@@ -24,6 +24,7 @@
         <module>middleware-router-lld</module>
         <module>snake-game-lld</module>
         <module>cost-explorer-lld</module>
+        <module>lca-orghierarchy-lld</module>
     </modules>
 
     <properties>
